@@ -80,9 +80,8 @@ read_agent_logs(lines)
 
 ### Claude Agent Workflow (Observe → Think → Act)
 
-<div style="text-align: center; margin: 30px 0;">
-  <img src="./claude_agent_workflow.png" alt="Claude Agent Workflow" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
-</div>
+<img width="843" height="815" alt="image" src="https://github.com/user-attachments/assets/d985ce18-ea7d-41a2-884b-8c52b3732756" />
+
 
 The diagram above illustrates how Claude Sonnet 4.6 processes your requests through three core cycles:
 
@@ -156,10 +155,8 @@ When Claude triggers a tool (for example, `@mcp.tool() def show_db_health()`), t
 ```
 
 ### Complete End-to-End User Query Flow
+<img width="843" height="815" alt="image" src="https://github.com/user-attachments/assets/9f214a79-f6b1-45b5-957e-dd9eec8f5cc0" />
 
-<div style="text-align: center; margin: 30px 0;">
-  <img src="./end_to_end_flow.png" alt="End-to-End Flow Diagram" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
-</div>
 
 The diagram above shows the complete journey of a user query from initial question to final answer:
 
