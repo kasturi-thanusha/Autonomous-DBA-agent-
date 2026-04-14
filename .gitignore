@@ -1,0 +1,11 @@
+venv/
+.env
+__pycache__/
+data/
+logs/
+data/
+venv/
+.env
+__pycache__/
+data/
+logs/
