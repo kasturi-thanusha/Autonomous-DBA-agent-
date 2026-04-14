@@ -21,16 +21,12 @@ Everything operates across three paradigms:
 The system seamlessly combines **Model Context Protocol (MCP)**, real-time database monitoring, advanced AI integration (Groq), and a safe execution layer to validate AI theories securely.
 
 ### System Architecture Overview
-
-<div style="text-align: center; margin: 30px 0;">
-  <img src="./dba_architecture_overview.svg" alt="DBA Architecture Overview" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
-</div>
+<img width="843" height="815" alt="image" src="https://github.com/user-attachments/assets/15986b7b-15f2-4f95-abfe-dd7f1c08af9a" />
 
 ### Agent Integration Architecture
 
-<div style="text-align: center; margin: 30px 0;">
-  <img src="./agent_in_architecture.svg" alt="Agent in Architecture" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
-</div>
+<img width="843" height="815" alt="image" src="https://github.com/user-attachments/assets/9c6159ae-6da7-4f6e-a82f-b9f0ab2af344" />
+
 
 ### Five Core Workflow Layers
 
